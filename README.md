@@ -1,5 +1,5 @@
 ![ogo](https://github.com/UmaYerjal/UmaYerjal/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
-<h1 align="center">Hello 👋, I'm Uma Yerjal</h1>
+<h1 align="center">Hello👋!..</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
